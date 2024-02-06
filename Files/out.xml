@@ -1,0 +1,157 @@
+<request>
+  <environment>live</environment>
+  <enterprise-id>Professional_Default</enterprise-id>
+  <batch-id>1674000000000</batch-id>
+  <claim type="Professional">
+    <id>202000000000000</id>
+    <line>
+      <id>1</id>
+      <user-defined id="7">0</user-defined>
+      <user-defined id="2">MV00GP</user-defined>
+      <user-defined id="3">MV00AN</user-defined>
+      <user-defined id="5">0</user-defined>
+      <user-defined id="9">108805461</user-defined>
+      <user-defined id="8">0.01</user-defined>
+      <user-defined id="1">0000    000000000000  00CAS CTL LINE                               </user-defined>
+      <diagnosis poa="1">6090G89</diagnosis>
+      <revenue-code>0</revenue-code>
+      <procedure-code>6</procedure-code>
+      <modifier>23</modifier>
+      <modifier>22</modifier>
+      <units>0</units>
+      <charges>3010000.02</charges>
+      <non-covered-charges>0</non-covered-charges>
+      <allowed-amount>0.02</allowed-amount>
+      <ndc-code>0</ndc-code>
+    </line>
+    <patient>
+      <id>10900000000</id>
+      <date-of-birth>3/26/88</date-of-birth>
+      <gender>F</gender>
+      <name>
+        <last>&quot;CURT&quot;</last>
+        <first>&quot;RAY GEORGE&quot;</first>
+        <middle>WFTNY</middle>
+      </name>
+      <address>
+        <address>219720 MARCUS STREET</address>
+        <city>JEFFERSONVILL</city>
+        <zip-code>IN4</zip-code>
+      </address>
+    </patient>
+    <claim-UDF ordinal="2">596778045</claim-UDF>
+    <total-claim-amount>3010000.02</total-claim-amount>
+    <icd-version>0</icd-version>
+    <diagnosis poa="1" type="principal">6090G89</diagnosis>
+    <diagnosis type="other">8</diagnosis>
+    <admission>
+      <discharge-status>0</discharge-status>
+    </admission>
+    <type-of-bill>0</type-of-bill>
+    <value-code>
+      <amount>0</amount>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <value-code>
+      <code>0</code>
+    </value-code>
+    <occurrence>
+      <code>0</code>
+    </occurrence>
+    <provider type="servicing">
+      <id>14538224</id>
+      <id type="tin">497461113</id>
+      <id type="npi">6245000000</id>
+      <specialty>MV000Y</specialty>
+      <name>
+        <last>PEDIATRIC ANESTHESIA ASSOCIATES PSC</last>
+      </name>
+      <address>
+        <address>DEPT 5090</address>
+        <city>LOUISVILLE</city>
+        <zip-code>KY4</zip-code>
+      </address>
+    </provider>
+    <provider type="billing">
+      <id>14538224</id>
+      <id type="tin">497461113</id>
+      <id type="npi">6245000000</id>
+      <specialty>MV000</specialty>
+      <name>
+        <last>PEDIATRIC ANESTHESIA ASSOCIATES PSC</last>
+      </name>
+      <address>
+        <address>DEPT 5090</address>
+        <city>LOUISVILLE</city>
+        <zip-code>KY4</zip-code>
+      </address>
+    </provider>
+    <plan>LM37675477</plan>
+    <account>YH</account>
+  </claim>
+</request>
